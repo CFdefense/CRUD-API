@@ -8,13 +8,13 @@ Additionally, I hoped to gain a more comprehensive understanding of backend deve
 Finally, I looked to gain experience in using and manipulating a database.
 
 ## Tools Used
-Javascript - Programming language.
-NodeJS - Javascript server runtime environment.
-Express - NodeJS web application framework.
-Nodemon - NodeJS tool allowing for asynchronous express development.
-Mongoose - NodeJS ODM library for easy manipulation and reading of MongoDB database.
-MongoDB - Database used to hold our 'product' information.
-Insomnia - API Debugging/Testing Utility.
+- Javascript - Programming language.
+- NodeJS - Javascript server runtime environment.
+- Express - NodeJS web application framework.
+- Nodemon - NodeJS tool allowing for asynchronous express development.
+- Mongoose - NodeJS ODM library for easy manipulation and reading of MongoDB database.
+- MongoDB - Database used to hold our 'product' information.
+- Insomnia - API Debugging/Testing Utility.
 
 ## Using JavaScript and NodeJS, I have created a simple Backend API that can serve the following functions.
 1. C reate a new instance of 'product' which is initialized and declared into our MongoDB Database.
