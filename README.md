@@ -1,7 +1,8 @@
-## This project is a CRUD API aka Create, Read, Update, and Delete.
+## CRUD API aka Create, Read, Update, and Delete.
 Created Using JS, NodeJS, Express, Nodemon, Mongoose, and MongoDB.
 Tested and Developed Using Insomnia
 
+## Tools Used
 Javascript - Programming language.
 NodeJS - Javascript server runtime environment.
 Express - NodeJS web application framework.
