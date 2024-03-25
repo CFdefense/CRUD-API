@@ -2,6 +2,11 @@
 Created Using JS, NodeJS, Express, Nodemon, Mongoose, and MongoDB.
 Tested and Developed Using Insomnia
 
+## Purpose
+I started this project to gain a stronger understanding of JavaScript and NodeJS to prepare for my IBM Joint Study Interview.
+Additionally, I hoped to gain a more comprehensive understanding of backend development and APIs.
+Finally, I looked to gain experience in using and manipulating a database.
+
 ## Tools Used
 Javascript - Programming language.
 NodeJS - Javascript server runtime environment.
