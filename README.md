@@ -1,7 +1,7 @@
 ## CRUD (Create, Read, Update, and Delete.)
-This CRUD API is a simple implementation of a RESTful API
-I Created This Using JS, NodeJS, Express, Nodemon, Mongoose, and MongoDB.
-Tested Using Insomnia
+-This CRUD API is a simple implementation of a RESTful API.
+-I Created This Using JS, NodeJS, Express, Nodemon, Mongoose, and MongoDB.
+-Tested Using Insomnia
 
 ## Purpose
 I started this project to gain a stronger understanding of JavaScript and NodeJS to prepare for my IBM Joint Study Interview.
