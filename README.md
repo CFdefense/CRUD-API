@@ -18,10 +18,10 @@ Finally, I looked to gain experience in using and manipulating a database.
 - Insomnia - RESTful API Debugging/Testing Utility.
 
 ## Using JavaScript and NodeJS, I have created a simple Backend API that can serve the following functions.
-1. C reate a new instance of 'product' which is initialized and declared into our MongoDB Database.
-2. R ead existing instances of 'product' or a singular instance based on its product ID number from the Database.
-3. U pdate existing instances of 'product' to replace the value(s) associated with the 'product'.
-4. D elete existing instances of 'product' from the database based on its ID number.
+1. <b>C</b> reate a new instance of 'product' which is initialized and declared into our MongoDB Database.
+2. <b>R</b> ead existing instances of 'product' or a singular instance based on its product ID number from the Database.
+3. <b>U</b> pdate existing instances of 'product' to replace the value(s) associated with the 'product'.
+4. <b>D</b> elete existing instances of 'product' from the database based on its ID number.
 
 ## Future Project Goals.
 1. Create a front-end product to push and pull from the database.
