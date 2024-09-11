@@ -25,4 +25,4 @@ Finally, I looked to gain experience in using and manipulating a database.
 
 ## Future Project Goals.
 1. Create a front-end product to push and pull from the database.
-2. Implement security features on the backend to prevent DB injection or bad action.
+2. Add more features of querying the database
