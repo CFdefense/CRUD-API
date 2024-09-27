@@ -3,9 +3,7 @@
 - I Created This Using JS, NodeJS, Express, Nodemon, Mongoose, and MongoDB.
 - Tested Using Insomnia and Postman
 ## Demo
-<div>
-    <img src="https://github.com/CFdefense/CFdefense.github.io/blob/main/public/media/projects/crud.gif?raw=true" alt="Description of the GIF" width="1000">
-</div>
+<img src="https://github.com/CFdefense/CFdefense.github.io/blob/main/public/media/projects/crud.gif?raw=true" alt="Description of the GIF" width="1000">
 
 ## Purpose
 I started this project to gain a stronger understanding of JavaScript and NodeJS to prepare for my IBM Joint Study Interview.
