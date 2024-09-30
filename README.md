@@ -2,6 +2,8 @@
 - This CRUD API is a simple implementation of a RESTful API.
 - I Created This Using JS, NodeJS, Express, Nodemon, Mongoose, and MongoDB.
 - Tested Using Insomnia and Postman
+## Demo
+<img src="https://github.com/CFdefense/CFdefense.github.io/blob/main/public/media/projects/crud.gif?raw=true" alt="Description of the GIF" width="1000">
 
 ## Purpose
 I started this project to gain a stronger understanding of JavaScript and NodeJS to prepare for my IBM Joint Study Interview.
