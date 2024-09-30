@@ -4,10 +4,11 @@ const mongoose = require("mongoose");
 const Product = require("./models/product.model.js");
 const productRoute = require("./routes/product.route.js");
 
+require('dotenv').config() // load environment variables
+
 const app = express();
 
-//middleware Config
-//Allows for JSON INPUT
+//middleware Config -Allows for JSON INPUT
 app.use(express.json());
 //Allows for URLENCODED (Forms) Input
 app.use(express.urlencoded({ extended: false }));
@@ -22,9 +23,7 @@ app.get("/", (req, res) => {
 
 //Attempt connection to mongoDB using mongoose, then listen
 mongoose
-  .connect(
-    "mongodb+srv://cfdefence:mongodbtest@backenddb.3zg57ft.mongodb.net/CRUD-API?retryWrites=true&w=majority&appName=BackendDB"
-  )
+  .connect(process.env.MONGODB_URI)
   .then(() => {
     console.log("Connected to database");
     //Open Port 3000 for listening
@@ -33,5 +32,6 @@ mongoose
     });
   })
   .catch(() => {
+    
     console.log("Connection Failed");
   });

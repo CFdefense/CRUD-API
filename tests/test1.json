@@ -1,0 +1,6 @@
+{
+    "name": "New Pizza",
+    "quantity": 10,
+    "price": 5.99,
+    "image": "https://example.com/image.jpg"
+  }
